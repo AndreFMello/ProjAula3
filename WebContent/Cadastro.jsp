@@ -10,9 +10,11 @@
 
 	<form action="Salvar.jsp">
 
-		ID: <input type="text" name="id"> Descrição: <input
-			type="text" name="descricao"> Ano: <input type="text"
-			name="ano"> <input type="submit" value="Salvar">
+		ID: <input type="text" name="id"> 
+		Descriçao: <input type="text" name="descricao"> 
+		Ano: <input type="text" name="ano"> 
+		
+		<input type="submit" value="Salvar">
 
 	</form>
 
